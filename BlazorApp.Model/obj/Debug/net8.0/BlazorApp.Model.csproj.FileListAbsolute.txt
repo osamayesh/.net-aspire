@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Model\bin\Debug\net8.0\BlazorApp.Model.deps.json
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Model\bin\Debug\net8.0\BlazorApp.Model.dll
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Model\bin\Debug\net8.0\BlazorApp.Model.pdb
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Model\obj\Debug\net8.0\BlazorApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Model\obj\Debug\net8.0\BlazorApp.Model.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Model\obj\Debug\net8.0\BlazorApp.Model.AssemblyInfo.cs
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Model\obj\Debug\net8.0\BlazorApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Model\obj\Debug\net8.0\BlazorApp.Model.dll
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Model\obj\Debug\net8.0\refint\BlazorApp.Model.dll
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Model\obj\Debug\net8.0\BlazorApp.Model.pdb
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Model\obj\Debug\net8.0\ref\BlazorApp.Model.dll
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Model\bin\Debug\net8.0\BlazorApp.Model.runtimeconfig.json
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Model\obj\Debug\net8.0\BlazorApp.Model.genruntimeconfig.cache

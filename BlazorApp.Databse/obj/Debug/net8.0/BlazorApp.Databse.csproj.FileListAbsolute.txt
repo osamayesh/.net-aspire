@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\bin\Debug\net8.0\BlazorApp.Databse.deps.json
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\bin\Debug\net8.0\BlazorApp.Databse.dll
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\bin\Debug\net8.0\BlazorApp.Databse.pdb
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\bin\Debug\net8.0\BlazorApp.Model.dll
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\bin\Debug\net8.0\BlazorApp.Model.pdb
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\obj\Debug\net8.0\BlazorApp.Databse.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\obj\Debug\net8.0\BlazorApp.Databse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\obj\Debug\net8.0\BlazorApp.Databse.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\obj\Debug\net8.0\BlazorApp.Databse.AssemblyInfo.cs
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\obj\Debug\net8.0\BlazorApp.Databse.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\obj\Debug\net8.0\BlazorAp.A7BB6186.Up2Date
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\obj\Debug\net8.0\BlazorApp.Databse.dll
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\obj\Debug\net8.0\refint\BlazorApp.Databse.dll
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\obj\Debug\net8.0\BlazorApp.Databse.pdb
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\obj\Debug\net8.0\ref\BlazorApp.Databse.dll
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\bin\Debug\net8.0\BlazorApp.Databse.runtimeconfig.json
+C:\Users\user\source\repos\AspireApp2\BlazorApp.Databse\obj\Debug\net8.0\BlazorApp.Databse.genruntimeconfig.cache

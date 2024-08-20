@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\AspireApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDCE332-8DF4-4684-8633-EA86D2DB8D36}|AspireApp2.ApiService\\AspireApp2.ApiService.csproj|c:\\users\\user\\source\\repos\\aspireapp2\\aspireapp2.apiservice\\aspireapp2.apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FDCE332-8DF4-4684-8633-EA86D2DB8D36}|AspireApp2.ApiService\\AspireApp2.ApiService.csproj|solutionrelative:aspireapp2.apiservice\\aspireapp2.apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDCE332-8DF4-4684-8633-EA86D2DB8D36}|AspireApp2.ApiService\\AspireApp2.ApiService.csproj|c:\\users\\user\\source\\repos\\aspireapp2\\aspireapp2.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FDCE332-8DF4-4684-8633-EA86D2DB8D36}|AspireApp2.ApiService\\AspireApp2.ApiService.csproj|solutionrelative:aspireapp2.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2629918-A3D5-43EA-9649-0DD164529D42}|AspireApp2.AppHost\\AspireApp2.AppHost.csproj|c:\\users\\user\\source\\repos\\aspireapp2\\aspireapp2.apphost\\aspireapp2.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2629918-A3D5-43EA-9649-0DD164529D42}|AspireApp2.AppHost\\AspireApp2.AppHost.csproj|solutionrelative:aspireapp2.apphost\\aspireapp2.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDCE332-8DF4-4684-8633-EA86D2DB8D36}|AspireApp2.ApiService\\AspireApp2.ApiService.csproj|c:\\users\\user\\source\\repos\\aspireapp2\\aspireapp2.apiservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FDCE332-8DF4-4684-8633-EA86D2DB8D36}|AspireApp2.ApiService\\AspireApp2.ApiService.csproj|solutionrelative:aspireapp2.apiservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDCE332-8DF4-4684-8633-EA86D2DB8D36}|AspireApp2.ApiService\\AspireApp2.ApiService.csproj|c:\\users\\user\\source\\repos\\aspireapp2\\aspireapp2.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FDCE332-8DF4-4684-8633-EA86D2DB8D36}|AspireApp2.ApiService\\AspireApp2.ApiService.csproj|solutionrelative:aspireapp2.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D08F387-CA9D-4DC8-B15A-C547234B4F0D}|BlazorApp.BL\\BlazorApp.BL.csproj|c:\\users\\user\\source\\repos\\aspireapp2\\blazorapp.bl\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D08F387-CA9D-4DC8-B15A-C547234B4F0D}|BlazorApp.BL\\BlazorApp.BL.csproj|solutionrelative:blazorapp.bl\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D08F387-CA9D-4DC8-B15A-C547234B4F0D}|BlazorApp.BL\\BlazorApp.BL.csproj|c:\\users\\user\\source\\repos\\aspireapp2\\blazorapp.bl\\respoistoires\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D08F387-CA9D-4DC8-B15A-C547234B4F0D}|BlazorApp.BL\\BlazorApp.BL.csproj|solutionrelative:blazorapp.bl\\respoistoires\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488451E4-BD71-4EC6-B9B6-E94C33CC6E8C}|BlazorApp.Databse\\BlazorApp.Databse.csproj|c:\\users\\user\\source\\repos\\aspireapp2\\blazorapp.databse\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488451E4-BD71-4EC6-B9B6-E94C33CC6E8C}|BlazorApp.Databse\\BlazorApp.Databse.csproj|solutionrelative:blazorapp.databse\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4E59B-5D71-41DE-8F08-817309470C75}|BlazorApp.Model\\BlazorApp.Model.csproj|c:\\users\\user\\source\\repos\\aspireapp2\\blazorapp.model\\blazorapp.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9F4E59B-5D71-41DE-8F08-817309470C75}|BlazorApp.Model\\BlazorApp.Model.csproj|solutionrelative:blazorapp.model\\blazorapp.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4E59B-5D71-41DE-8F08-817309470C75}|BlazorApp.Model\\BlazorApp.Model.csproj|c:\\users\\user\\source\\repos\\aspireapp2\\blazorapp.model\\enities\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F4E59B-5D71-41DE-8F08-817309470C75}|BlazorApp.Model\\BlazorApp.Model.csproj|solutionrelative:blazorapp.model\\enities\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4E59B-5D71-41DE-8F08-817309470C75}|BlazorApp.Model\\BlazorApp.Model.csproj|c:\\users\\user\\source\\repos\\aspireapp2\\blazorapp.model\\model\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F4E59B-5D71-41DE-8F08-817309470C75}|BlazorApp.Model\\BlazorApp.Model.csproj|solutionrelative:blazorapp.model\\model\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4098E183-FD08-4441-872A-3C3A1D53E3C9}|AspireApp2.Web\\AspireApp2.Web.csproj|c:\\users\\user\\source\\repos\\aspireapp2\\aspireapp2.web\\aspireapp2.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4098E183-FD08-4441-872A-3C3A1D53E3C9}|AspireApp2.Web\\AspireApp2.Web.csproj|solutionrelative:aspireapp2.web\\aspireapp2.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D08F387-CA9D-4DC8-B15A-C547234B4F0D}|BlazorApp.BL\\BlazorApp.BL.csproj|c:\\users\\user\\source\\repos\\aspireapp2\\blazorapp.bl\\blazorapp.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4D08F387-CA9D-4DC8-B15A-C547234B4F0D}|BlazorApp.BL\\BlazorApp.BL.csproj|solutionrelative:blazorapp.bl\\blazorapp.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488451E4-BD71-4EC6-B9B6-E94C33CC6E8C}|BlazorApp.Databse\\BlazorApp.Databse.csproj|c:\\users\\user\\source\\repos\\aspireapp2\\blazorapp.databse\\blazorapp.databse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{488451E4-BD71-4EC6-B9B6-E94C33CC6E8C}|BlazorApp.Databse\\BlazorApp.Databse.csproj|solutionrelative:blazorapp.databse\\blazorapp.databse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDCE332-8DF4-4684-8633-EA86D2DB8D36}|AspireApp2.ApiService\\AspireApp2.ApiService.csproj|c:\\users\\user\\source\\repos\\aspireapp2\\aspireapp2.apiservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FDCE332-8DF4-4684-8633-EA86D2DB8D36}|AspireApp2.ApiService\\AspireApp2.ApiService.csproj|solutionrelative:aspireapp2.apiservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AspireApp2.AppHost",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AspireApp2\\AspireApp2.AppHost\\AspireApp2.AppHost.csproj",
+              "RelativeDocumentMoniker": "AspireApp2.AppHost\\AspireApp2.AppHost.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AspireApp2\\AspireApp2.AppHost\\AspireApp2.AppHost.csproj",
+              "RelativeToolTip": "AspireApp2.AppHost\\AspireApp2.AppHost.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T21:49:45.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AspireApp2\\AspireApp2.ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "AspireApp2.ApiService\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AspireApp2\\AspireApp2.ApiService\\Program.cs",
+              "RelativeToolTip": "AspireApp2.ApiService\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:34:11.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AspireApp2\\BlazorApp.BL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "BlazorApp.BL\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AspireApp2\\BlazorApp.BL\\Services\\ProductService.cs",
+              "RelativeToolTip": "BlazorApp.BL\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:34:41.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AspireApp2.ApiService.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AspireApp2\\AspireApp2.ApiService\\AspireApp2.ApiService.csproj",
+              "RelativeDocumentMoniker": "AspireApp2.ApiService\\AspireApp2.ApiService.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AspireApp2\\AspireApp2.ApiService\\AspireApp2.ApiService.csproj",
+              "RelativeToolTip": "AspireApp2.ApiService\\AspireApp2.ApiService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-18T20:51:50.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AspireApp2\\BlazorApp.BL\\Respoistoires\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "BlazorApp.BL\\Respoistoires\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AspireApp2\\BlazorApp.BL\\Respoistoires\\ProductRepository.cs",
+              "RelativeToolTip": "BlazorApp.BL\\Respoistoires\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:39:37.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AspireApp2\\BlazorApp.Databse\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlazorApp.Databse\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AspireApp2\\BlazorApp.Databse\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BlazorApp.Databse\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:04:37.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AspireApp2\\AspireApp2.ApiService\\appsettings.json",
+              "RelativeDocumentMoniker": "AspireApp2.ApiService\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AspireApp2\\AspireApp2.ApiService\\appsettings.json",
+              "RelativeToolTip": "AspireApp2.ApiService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T12:04:39.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlazorApp.Model.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AspireApp2\\BlazorApp.Model\\BlazorApp.Model.csproj",
+              "RelativeDocumentMoniker": "BlazorApp.Model\\BlazorApp.Model.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AspireApp2\\BlazorApp.Model\\BlazorApp.Model.csproj",
+              "RelativeToolTip": "BlazorApp.Model\\BlazorApp.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-18T21:09:56.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "productModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AspireApp2\\BlazorApp.Model\\Enities\\productModel.cs",
+              "RelativeDocumentMoniker": "BlazorApp.Model\\Enities\\productModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AspireApp2\\BlazorApp.Model\\Enities\\productModel.cs",
+              "RelativeToolTip": "BlazorApp.Model\\Enities\\productModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:13:04.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AspireApp2\\BlazorApp.Model\\Model\\BaseResponseModel.cs",
+              "RelativeDocumentMoniker": "BlazorApp.Model\\Model\\BaseResponseModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AspireApp2\\BlazorApp.Model\\Model\\BaseResponseModel.cs",
+              "RelativeToolTip": "BlazorApp.Model\\Model\\BaseResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:42:00.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AspireApp2\\AspireApp2.ApiService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AspireApp2.ApiService\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AspireApp2\\AspireApp2.ApiService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AspireApp2.ApiService\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:40:38.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AspireApp2.Web",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AspireApp2\\AspireApp2.Web\\AspireApp2.Web.csproj",
+              "RelativeDocumentMoniker": "AspireApp2.Web\\AspireApp2.Web.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AspireApp2\\AspireApp2.Web\\AspireApp2.Web.csproj",
+              "RelativeToolTip": "AspireApp2.Web\\AspireApp2.Web.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T20:40:13.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlazorApp.Databse.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AspireApp2\\BlazorApp.Databse\\BlazorApp.Databse.csproj",
+              "RelativeDocumentMoniker": "BlazorApp.Databse\\BlazorApp.Databse.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AspireApp2\\BlazorApp.Databse\\BlazorApp.Databse.csproj",
+              "RelativeToolTip": "BlazorApp.Databse\\BlazorApp.Databse.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T12:04:34.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlazorApp.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AspireApp2\\BlazorApp.BL\\BlazorApp.BL.csproj",
+              "RelativeDocumentMoniker": "BlazorApp.BL\\BlazorApp.BL.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AspireApp2\\BlazorApp.BL\\BlazorApp.BL.csproj",
+              "RelativeToolTip": "BlazorApp.BL\\BlazorApp.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T12:04:39.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AspireApp2\\AspireApp2.ApiService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AspireApp2.ApiService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AspireApp2\\AspireApp2.ApiService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AspireApp2.ApiService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-18T21:01:17.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
